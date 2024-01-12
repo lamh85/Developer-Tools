@@ -1,6 +1,10 @@
 # Developer Tools
 A collection of tools that help me develop projects faster.
 
+# Supplement to libraries
+
+[Helpful error messages for `node-postgres`](https://github.com/lamh85/pg-error-handler/tree/master)
+
 # General tools
 
 [Bash profile scripts](https://github.com/lamh85/Shell-Startup/blob/master/src/index.sh)
@@ -14,7 +18,3 @@ Javascript
 
 Ruby
 * [Rails guide and checklist](https://github.com/lamh85/rails-starter)
-
-# Supplement to libraries
-
-[Helpful error messages for `node-postgres`](https://github.com/lamh85/pg-error-handler/tree/master)
